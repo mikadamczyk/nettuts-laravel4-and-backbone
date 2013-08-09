@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => '127.0.0.1',
-			'database'  => 'nettutstester',
+			'database'  => 'l4b',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',
